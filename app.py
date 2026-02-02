@@ -5,7 +5,7 @@ from diabetes_model import DiabetesPredictor, calculate_bmi
 # Page configuration
 st.set_page_config(
     page_title="Diabetes.predict",
-    page_icon="",
+    page_icon="🔮",
     layout="wide",
     initial_sidebar_state="expanded"
 )
